@@ -1,7 +1,7 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string res;
+     string res;
         string temp;
         
         for(int i{0}; s[i] != '\0'; i++){
